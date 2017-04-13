@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_TodayMenu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Today" />
+        <item
+            android:id="@+id/nav_ClassMenu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Class" />
+        <item
+            android:id="@+id/nav_ExamMenu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Exam" />
+        <item
+            android:id="@+id/nav_AssignmentMenu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Assignment" />
+        <item
+            android:id="@+id/nav_ActivityMenu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Activity" />
+        <item
+            android:id="@+id/nav_SettingMenu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Setting" />
+    </group>
+
+
+
+</menu>
